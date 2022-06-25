@@ -2,6 +2,7 @@
 <blockquote align="right"><h3>Focused on front-end tech stacks and high traffic web applications, experience in hardware, entertainment, ecommerce, and education industries.</h3></blockquote>
 
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
+
 Hello! My name is Jarrod Sampson, I'm a Software Engineer with 7+ years experience with internal, high traffic, and e-commerce applications both new and legacy as an independent contractor.
 
 <p align="center">
@@ -9,9 +10,7 @@ Hello! My name is Jarrod Sampson, I'm a Software Engineer with 7+ years experien
 <img src="https://github-readme-stats.vercel.app/api?username=jarrodsampson&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
 </p>
 
-Finally, appreciate your viewing of my profile! You can follow me if my works are of interest.
-
-## &nbsp;
+Thank you for viewing my profile! You can follow me if my works are of interest.
 
 <details>
 </details>
