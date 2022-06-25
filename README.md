@@ -10,7 +10,7 @@ Hello! My name is Jarrod Sampson, I'm a Software Engineer with 7+ years experien
 <img src="https://github-readme-stats.vercel.app/api?username=jarrodsampson&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
 </p>
 
-Thank you for viewing my profile! You can follow me if my works are of interest.
+Thank you for viewing my profile! Follow me if my works are of interest.
 
 <details>
 </details>
