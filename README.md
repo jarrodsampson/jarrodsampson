@@ -3,7 +3,7 @@
 
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 
-Hello! My name is Jarrod Sampson, I'm a Software Engineer with 9+ years experience with internal, high traffic, and e-commerce applications both new and legacy as an independent contractor.
+Hello! My name is Jarrod Sampson, I'm a Software Engineer with 10+ years combined experience with internal, high traffic, and e-commerce applications both new and legacy as an independent contractor.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodsampson&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
